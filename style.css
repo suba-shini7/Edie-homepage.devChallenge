@@ -1,0 +1,86 @@
+*{
+	font-family: 'Poppins', sans-serif;
+}
+.navbar-brand {
+	font-weight: bold;
+}
+.navbar-nav{
+	margin-left: auto;
+}
+.main-nav{
+	display: flex;
+	list-style: none;
+	font-size: 20px;
+}
+li{
+	padding: 30px;
+}
+a{ color: black;
+	text-decoration: none;
+}
+.txtb{
+	color: #2D9CDB;
+
+}
+.hero{
+	border-radius: 15px;
+}
+.btn-primary{
+	background:  #2D9CDB;
+
+}
+.form-control{
+background:  #F2F2F2;
+}
+.frst{
+     background: #E0E0E0;
+     color: #828282;
+	 border-color: #E0E0E0; 
+}
+.frst:hover{
+     background: #2D9CDB;
+ border-color: #2D9CDB;
+}
+.card{
+border: none;
+}
+.card:hover{
+	border-radius: 10px;
+	border: 2px solid #FFFFFF;
+	background: #FFFFFF;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.pht{
+	border-radius: 20px;
+}
+.push{
+	margin-left: auto;
+	color:  #2D9CDB;
+	font-size: 20px;
+
+}
+.txtc{
+	color:  #EB5757;
+
+}
+.ft{
+	background: #100E1D;
+	width: auto;
+	height: auto;
+
+}
+
+.btm-nav{
+	list-style: none;
+	font-size: 20px;
+	color: white;
+}
+.btm-nav  li{
+	padding: 10px;
+}
+
+.endtxt{
+	font-family: 'Montserrat', sans-serif;
+   color: #BDBDBD;
+   font-size: 14px;
+}
